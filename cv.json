@@ -20,15 +20,16 @@
                 "username": "Sebastian Beltran",
                 "url": "https://www.linkedin.com/in/sebastian-beltran-gonzalez-98b503174/"
             },
-            {
-                "network": "X",
-                "username": "Sebastian Beltran",
-                "url": "https://twitter.com/SebasSB_"
-            },
+            
             {
                 "network": "GitHub",
                 "username": "Sebastian Beltran",
                 "url": "https://github.com/Sebastian-Beltran"
+            },
+            {
+                "network": "X",
+                "username": "Sebastian Beltran",
+                "url": "https://twitter.com/SebasSB_"
             }
         ]
     },
