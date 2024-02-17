@@ -6,7 +6,7 @@
         "email": "beltran.sebastiang@gmail.com",
         "phone": "+57 3125544106",
         "url": "https://sebastian-beltran.github.io/CV/",
-        "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+        "summary": "Experiencia de +5 años en desarrollo de Software, enfocado en aplicaciones móviles hibridas. Experiencia en desarrollo web Frontend y Backend.",
         "location": {
             "address": "Transversal 112 C # 64D - 15",
             "postalCode": "111031",
@@ -39,8 +39,8 @@
             "position": "Desarrollador de aplicaciones móviles",
             "url": "https://puntored.co/",
             "startDate": "2021-05",
-            "endDate": "Actual",
-            "summary": "Desarrolle un app movil que brinda servicios financieros, dentro del app desarrollaba migraciones, integraciones, testing.",
+            "endDate": null,
+            "summary": "Desarrollé un app movil que brinda servicios financieros, dentro del app desarrollaba migraciones, integraciones, testing.",
             "highlights": [
                 "Started the company"
             ]
@@ -51,7 +51,7 @@
             "url": "https://www.linkedin.com/company/vortex.soluciones/",
             "startDate": "2020-08",
             "endDate": "2021-03",
-            "summary": "Desarrolle una app movil en formato de e-commerce donde desarrolle el frontend de la app, consumiendo servicios.",
+            "summary": "Desarrolle una app movil en formato de e-commerce, consumiendo servicios, aplicando el gestor de estados de BLoC",
             "highlights": [
                 "Started the company"
             ]
