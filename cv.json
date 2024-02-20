@@ -6,7 +6,7 @@
         "email": "beltran.sebastiang@gmail.com",
         "phone": "+57 3125544106",
         "url": "https://sebastian-beltran.github.io/CV/",
-        "summary": "Experiencia de +5 años en desarrollo de Software, enfocado en aplicaciones móviles hibridas. Experiencia en desarrollo web Frontend y Backend.",
+        "summary": "Soy un apasionado desarrollador Frontend y Mobile con más de 5 años de experiencia en la industria del desarrollo de software. Mi enfoque principal ha sido el desarrollo de aplicaciones móviles híbridas, junto con sólidas habilidades en el desarrollo web tanto Frontend como Backend.",
         "location": {
             "address": "Transversal 112 C # 64D - 15",
             "postalCode": "111031",
@@ -20,7 +20,6 @@
                 "username": "Sebastian Beltran",
                 "url": "https://www.linkedin.com/in/sebastian-beltran-gonzalez-98b503174/"
             },
-            
             {
                 "network": "GitHub",
                 "username": "Sebastian Beltran",
@@ -101,111 +100,40 @@
     ],
     "skills": [
         {
-            "name": "HTML",
-            "level": "Master",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
-            ]
+            "name": "HTML"
         },
         {
-            "name": "CSS",
-            "level": "Master",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Diseño Responsive"
-            ]
+            "name": "CSS"
         },
         {
-            "name": "JavaScript",
-            "level": "Master",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "Fullstack"
-            ]
+            "name": "JavaScript"
         },
         {
-            "name": "Tailwind",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
+            "name": "Tailwind"
         },
         {
-            "name": "TypeScript",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
-            ]
+            "name": "Flutter"
         },
         {
-            "name": "Node",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Backend",
-                "JavaScript",
-                "Servidor"
-            ]
+            "name": "TypeScript"
         },
         {
-            "name": "MySQL",
-            "level": "Avanzado",
-            "keywords": [
-                "Bases de Datos",
-                "SQL",
-                "Almacenamiento de Datos",
-                "Backend"
-            ]
+            "name": "Node"
         },
         {
-            "name": "Git",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente"
-            ]
+            "name": "MySQL"
         },
         {
-            "name": "GitHub",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente",
-                "Git"
-            ]
+            "name": "Git"
         },
         {
-            "name": "Next.js",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "React Framework",
-                "SSR",
-                "Static Generation"
-            ]
+            "name": "GitHub"
         },
         {
-            "name": "React",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
+            "name": "Next.js"
+        },
+        {
+            "name": "React"
         }
     ],
     "languages": [
@@ -233,8 +161,8 @@
             "reference": "Reference…"
         },
         {
-            "name": "Jane Doe",
-            "reference": "Reference…"
+            "name": "Camilo Fernandez",
+            "reference": "De"
         }
     ],
     "projects": [
