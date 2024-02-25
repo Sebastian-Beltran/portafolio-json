@@ -167,66 +167,35 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
-            "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
+            "name": "API UCC APP",
+            "isActive": false,
+            "description": "API desarrollada en Laravel, PostgreSQL, para la gestión de usuarios del UccApp para el registro de información de COVID-19",
             "highlights": [
-                "Elige tu propia aventura",
-                "En desarrollo"
+                "API Laravel",
+                "PostgreSQL",
+                "Caida por parte de la Universidad"
             ],
-            "url": "https://mars.codes"
+            "url": ""
         },
         {
-            "name": "AdventJS",
+            "name": "UCC APP",
             "isActive": true,
-            "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+            "description": "App movil desarrollada en Flutter, para el ingreso a las instalaciones de la Universidad.",
             "highlights": [
-                "+1 millón de visitas",
-                "Multidioma",
-                "JavaScript & TypeScript"
+                "+1 mil Descargas",
+                "Flutter"
             ],
-            "url": "https://adventjs.dev"
+            "url": "https://play.google.com/store/apps/details?id=com.uccapp.dev"
         },
         {
-            "name": "Codember",
-            "isActive": true,
-            "description": "Juego interactivo de programación con retos y secretos",
+            "name": "ViveTuBogota",
+            "isActive": false,
+            "description": "App movil desarrollada en Flutter, para listar los principales sitios turisticos de la ciudad de Bogotá.",
             "highlights": [
-                "+2000 usuarios activos",
-                "Retos para cualquier lenguaje"
-            ],
-            "url": "https://codember.dev"
-        },
-        {
-            "name": "codi.link",
-            "isActive": true,
-            "description": "Playground de código HTML, CSS y JavaScript para compartir",
-            "highlights": [
-                "100k visitas al mes",
-                "Desarrollado por la comunidad"
+                "Flutter"
             ],
             "url": "https://codi.link",
-            "github": "https://github.com/midudev/codi.link"
-        },
-        {
-            "name": "Pruebas Técnicas",
-            "isActive": true,
-            "description": "Lista de pruebas técnicas de empresas para practicar programación",
-            "highlights": [
-                "100% gratuito",
-                "+500 soluciones de la comunidad"
-            ],
-            "url": "https://pruebastecnicas.com",
-            "github": "https://github.com/midudev/pruebas-tecnicas"
-        },
-        {
-            "name": "miduConf",
-            "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-            "highlights": [
-                "+15k tickets repartidos",
-                "+50k espectadores en directo"
-            ],
-            "url": "https://miduconf.com"
+            "github": "https://github.com/Sebastian-Beltran/ViveTuBogota"
         }
     ]
 }
