@@ -13,8 +13,16 @@ import { projects } from "@cv";
               <header>
                 <a href={url} title={`Ver el proyecto ${name}`}>
                   <h3>{name}</h3>
+                  <p>{description}</p>
                 </a>
               </header>
+              <footer>
+                <ul>
+                  {highlights.map((highlight) => {
+                    return <li>{highlight}</li>;
+                  })}
+                </ul>
+              </footer>
             </article>
           </li>
         );
@@ -22,3 +30,15 @@ import { projects } from "@cv";
     }
   </ul>
 </Section>
+
+<style>
+  ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+  article {
+    border-radius: 8px;
+    border: 1px solid ·f2f2f2;
+  }
+</style>

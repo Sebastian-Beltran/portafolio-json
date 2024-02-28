@@ -139,7 +139,7 @@
     "languages": [
         {
             "language": "Español",
-            "fluency": "Native speaker"
+            "fluency": "Hablante nativo"
         },
         {
             "language": "Ingles",
@@ -172,8 +172,7 @@
             "description": "API desarrollada en Laravel, PostgreSQL, para la gestión de usuarios del UccApp para el registro de información de COVID-19",
             "highlights": [
                 "API Laravel",
-                "PostgreSQL",
-                "Caida por parte de la Universidad"
+                "PostgreSQL"            
             ],
             "url": ""
         },
@@ -194,7 +193,7 @@
             "highlights": [
                 "Flutter"
             ],
-            "url": "https://codi.link",
+            "url": "https://github.com/Sebastian-Beltran/ViveTuBogota",
             "github": "https://github.com/Sebastian-Beltran/ViveTuBogota"
         }
     ]
