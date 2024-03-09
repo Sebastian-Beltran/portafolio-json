@@ -24,11 +24,6 @@
                 "network": "GitHub",
                 "username": "Sebastian Beltran",
                 "url": "https://github.com/Sebastian-Beltran"
-            },
-            {
-                "network": "X",
-                "username": "Sebastian Beltran",
-                "url": "https://twitter.com/SebasSB_"
             }
         ]
     },
@@ -158,11 +153,11 @@
     "references": [
         {
             "name": "Camilo Alejandro Lizarazo",
-            "reference": "Reference…"
+            "reference": "Community Manager"
         },
         {
             "name": "Camilo Fernandez",
-            "reference": "De"
+            "reference": "Desarrollador de Software"
         }
     ],
     "projects": [
