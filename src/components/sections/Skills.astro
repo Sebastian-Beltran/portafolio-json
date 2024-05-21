@@ -7,11 +7,15 @@ import { skills } from "@cv";
 <Section title="Habilidades">
   <ul>
     {
-      skills.map(({ name }) => (
-        <li>
-          <span>{name}</span>
-        </li>
-      ))
+      skills.map(({ name, icon }) =>
+        icon == null ? (
+          <li>
+            <span>{name}</span>
+          </li>
+        ) : (
+          <img src={icon} />
+        )
+      )
     }
   </ul>
 </Section>
