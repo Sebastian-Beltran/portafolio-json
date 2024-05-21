@@ -10,7 +10,7 @@ import { work } from "@cv";
       work.map(({ name, startDate, endDate, position, summary }) => {
         const startYear = new Date(startDate).getFullYear();
         const endYear =
-          endDate != null ? new Date(startDate).getFullYear() : "Actual";
+          endDate != null ? new Date(endDate).getFullYear() : "Actual";
         const years = `${startYear} - ${endYear}`;
         return (
           <li>
