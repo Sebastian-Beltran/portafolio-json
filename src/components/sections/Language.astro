@@ -1,0 +1,99 @@
+---
+import cv_spanish from "@cv";
+import cv_en from "@cv-en";
+---
+
+<div class="toggle-container">
+  <input type="checkbox" id="toggle-switch" class="toggle-switch" />
+  <label for="toggle-switch" class="toggle-label">
+    <span class="flag es"></span>
+    <span class="flag en"></span>
+  </label>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const toggleSwitch = document.getElementById(
+      "toggle-switch"
+    ) as HTMLInputElement | null;
+
+    if (toggleSwitch) {
+      toggleSwitch.addEventListener("change", () => {
+        if (toggleSwitch.checked) {
+          {
+          }
+        } else {
+        }
+      });
+    } else {
+      console.error("Toggle switch element not found");
+    }
+  });
+</script>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .toggle-container {
+    position: relative;
+  }
+
+  .toggle-switch {
+    display: none;
+  }
+
+  .toggle-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60px;
+    height: 34px;
+    background-color: #ccc;
+    border-radius: 34px;
+    padding: 5px;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.3s;
+  }
+
+  .toggle-label::before {
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform 0.3s;
+  }
+
+  .toggle-switch:checked + .toggle-label::before {
+    transform: translateX(26px);
+  }
+
+  .toggle-switch:checked + .toggle-label {
+    background-color: #4caf50;
+  }
+
+  .flag {
+    width: 24px;
+    height: 24px;
+    background-size: cover;
+  }
+
+  .flag.es {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/24px-Flag_of_Spain.svg.png");
+  }
+
+  .flag.en {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/24px-Flag_of_the_United_States.svg.png");
+  }
+</style>
