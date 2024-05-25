@@ -194,6 +194,16 @@
             "url": "https://play.google.com/store/apps/details?id=com.uccapp.dev"
         },
         {
+            "name": "Pasa palabra",
+            "isActive": true,
+            "description": "App movil desarrollada en Flutter, consiste en el juego de pasapalabra",
+            "highlights": [
+                "+1 mil Descargas",
+                "Flutter"
+            ],
+            "url": "https://github.com/Sebastian-Beltran/pasa-palabra"
+        },
+        {
             "name": "ViveTuBogota",
             "isActive": false,
             "description": "App movil desarrollada en Flutter, para listar los principales sitios turisticos de la ciudad de Bogotá.",
