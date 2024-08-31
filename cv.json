@@ -191,10 +191,9 @@
         },
         {
             "name": "Pasa palabra",
-            "isActive": true,
+            "isActive": false,
             "description": "App movil desarrollada en Flutter, consiste en el juego de pasapalabra",
             "highlights": [
-                "+1 mil Descargas",
                 "Flutter"
             ],
             "url": "https://github.com/Sebastian-Beltran/pasa-palabra"
